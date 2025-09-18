@@ -47,6 +47,7 @@ Medellin3D is a company based in Medellín, Colombia that offers a range of 3D p
 - Bambu
 - Prusa
 - Voron
+- VzBot
 - RatRig
 
 ## Our Focus 🎯
